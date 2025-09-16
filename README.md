@@ -111,21 +111,6 @@ In addition to dashboard insights, a **Google Colab-based machine learning model
   - `pandas`, `scikit-learn`, `matplotlib`  
 
 ---
-'''
-## 📂 Project Structure
-/project-root
-│── README.md
-│── sql/ # BigQuery SQL scripts
-│ ├── company_monthly.sql
-│ ├── pickup_analysis.sql
-│ ├── demand_patterns.sql
-│ └── pricing_intel.sql
-│── dashboards/ # Looker Studio links/screenshots
-│── notebooks/ # Colab notebooks for ML model
-│ └── fare_prediction.ipynb
-'''
-
----
 
 ## 🚀 Key Takeaways
 - Chicago’s taxi market is **competitive but penetrable**.  
