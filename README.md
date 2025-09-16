@@ -111,7 +111,7 @@ In addition to dashboard insights, a **Google Colab-based machine learning model
   - `pandas`, `scikit-learn`, `matplotlib`  
 
 ---
-
+'''
 ## 📂 Project Structure
 /project-root
 │── README.md
@@ -123,7 +123,7 @@ In addition to dashboard insights, a **Google Colab-based machine learning model
 │── dashboards/ # Looker Studio links/screenshots
 │── notebooks/ # Colab notebooks for ML model
 │ └── fare_prediction.ipynb
-
+'''
 
 ---
 
