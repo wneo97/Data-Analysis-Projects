@@ -194,6 +194,7 @@ Predicts **future trip demand** across time, geography, and conditions.
 ## 👤 Author
 
 Project by *Neo Wayne*
+
 Blending **SQL, BI, and ML** for actionable market intelligence.
 
 
