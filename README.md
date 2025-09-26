@@ -143,9 +143,7 @@ Predicts **future trip demand** across time, geography, and conditions.
 
 **Models tested:**
 
-* Random Forest Regressor
-* Gradient Boosted Trees
-* Time-series approaches with lag features
+* LightGBM
 
 **Outcome:**
 
