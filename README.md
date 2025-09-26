@@ -183,11 +183,11 @@ Predicts **future trip demand** across time, geography, and conditions.
 ## 🔗 Links
 
 * **Dataset**: [Chicago Taxi Trips (BigQuery Public Dataset)](https://console.cloud.google.com/marketplace/product/city-of-chicago-public-data/chicago-taxi-trips)
-* **Looker Studio Dashboard**: *[Kindly contact me on LinkedIn for access as the the interactive dashboard processses a large amount of data](https://lookerstudio.google.com/reporting/222b720e-85a1-417b-b17e-a605036c4ffe)*
-* **Colab Notebooks**:
+* **Dashboard**: *[Looker Studio](https://lookerstudio.google.com/reporting/222b720e-85a1-417b-b17e-a605036c4ffe)*
+* **Google Colab Notebooks**:
 
-  * [Fare Prediction](https://colab.research.google.com/drive/17nJahDV85Wv3K8Q49wLTwcezGd6Jfpy-?usp=sharing)
-  * [Demand Forecasting](https://colab.research.google.com/drive/1Ggj2qYWfaqzhC7JbzrYvu5D8SlYLeSVf?usp=sharing)
+  * [Fare Prediction](https://github.com/wneo97/Data-Analysis-Projects/tree/main/notebooks/fare_prediction)
+  * [Demand Forecasting](https://github.com/wneo97/Data-Analysis-Projects/tree/main/notebooks/demand_forecast)
 
 ---
 
